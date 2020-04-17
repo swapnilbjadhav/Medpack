@@ -1,5 +1,5 @@
 # Medpack
-Created a Basic Angular app for registration and logib with fake backend using HTTP interceptors. 
+Created a Basic Angular app for registration and login with fake backend using HTTP interceptors. 
 
 Open in Visual Studio Code
 
