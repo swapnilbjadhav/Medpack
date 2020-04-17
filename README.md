@@ -5,6 +5,10 @@ Open in Visual Studio Code
 
 Open Terminal
 
-Build and Run using below command:
+# Build and Run using below command:
+
+npm install OR npm update
+
 npm build
+
 npm start
