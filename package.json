@@ -1,0 +1,30 @@
+{
+  "name": "medpack",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open"
+  },
+  "dependencies": {
+    "@angular/common": "^8.2.14",
+    "@angular/compiler": "^8.2.14",
+    "@angular/core": "^8.2.14",
+    "@angular/forms": "^8.2.14",
+    "@angular/platform-browser": "^8.2.14",
+    "@angular/platform-browser-dynamic": "^8.2.14",
+    "@angular/router": "^8.2.14",
+    "core-js": "^3.6.5",
+    "rxjs": "^6.5.5",
+    "zone.js": "^0.9.0"
+  },
+  "devDependencies": {
+    "@types/node": "^11.15.10",
+    "angular2-template-loader": "^0.6.2",
+    "html-webpack-plugin": "^3.2.0",
+    "raw-loader": "^1.0.0",
+    "ts-loader": "^5.4.5",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  }
+}
